@@ -27,4 +27,4 @@ Our team is committed to providing regular updates, a variety of gameplay modes,
 
 # Meet The Team!
 
-For more details, visit [**Meet The Team!**](./profile/MTT.md)
+For more details, visit [**Meet The Team!**](MTT.md)
