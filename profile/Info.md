@@ -14,7 +14,7 @@ Our team is committed to providing regular updates, a variety of gameplay modes,
 
 ## Gamemodes:
 - **Practice 1.9+** (UHC, Mace, Sword, Axe, etc.)
-- **Practice 1.8+** (Under Development
+- **Practice 1.8+** (Under Development)
 - **Duels**
 - **Party FFA**
 - **FFA** (NEW!)
