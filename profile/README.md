@@ -24,3 +24,7 @@ Our team is committed to providing regular updates, a variety of gameplay modes,
 
 ## IP Address:
 [**XEONpvp.xyz**](http://XEONpvp.xyz)
+
+# Meet The Team!
+
+For more details, visit [**Meet The Team!**](./profile/MTT.md)
