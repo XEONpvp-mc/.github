@@ -26,9 +26,7 @@ Our team is committed to providing regular updates, a variety of gameplay modes,
 [**XEONpvp.xyz**](http://XEONpvp.xyz)
 
 # Meet The Staff Team!
+Visit [**Meet The Staff Team!**](MTT.md) To See Our Staff Members!
 
-For more details, visit [**Meet The Staff Team!**](MTT.md)
-
-# Check Out Changelogs!
-
-visit [**Check The Changelogs!**](Changelog.md)
+# Changelogs
+[**Check The Changelogs!**](Changelog.md)
